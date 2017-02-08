@@ -1,14 +1,14 @@
 <LaserManager>
 		<Laser_Manager>
 			<UnknownName>ETHERDREAM_IDLE</UnknownName>
-			<intensity>0.19</intensity>
+			<intensity>0.165</intensity>
 			<test_pattern>0</test_pattern>
 			<sync_delay>0</sync_delay>
 			<points_per_second>30000</points_per_second>
-			<mask_margin_top>0</mask_margin_top>
-			<mask_margin_bottom>0</mask_margin_bottom>
-			<mask_margin_left>0</mask_margin_left>
-			<mask_margin_right>0</mask_margin_right>
+			<mask_margin_top>800</mask_margin_top>
+			<mask_margin_bottom>800</mask_margin_bottom>
+			<mask_margin_left>800</mask_margin_left>
+			<mask_margin_right>800</mask_margin_right>
 			<show_warp_points>0</show_warp_points>
 			<colour_change_offset>-3</colour_change_offset>
 			<flip_x>0</flip_x>

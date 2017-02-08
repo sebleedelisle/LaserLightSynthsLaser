@@ -83,7 +83,7 @@ class ofApp : public ofBaseApp, public ofxMidiListener {
 	LaserManager& laserManager;
 	ParticleSystemManager& particleSystemManager;
 	
-	ofFbo projectorFbo;
+	//ofFbo projectorFbo;
 	ofFbo uiFbo; 
 	ofRectangle projectorPosition;
 	ofImage guideImage;

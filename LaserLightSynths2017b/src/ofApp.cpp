@@ -29,10 +29,10 @@ void ofApp::setup(){
 	ofEnableSmoothing();
 	ofSetFrameRate(60);
 
-	screenWidth = 1280;
-	screenHeight = 960;
+	screenWidth = 800;
+	screenHeight = 800;
 	
-	guideImage.loadImage("img/MarischalCollege.jpg");
+	guideImage.loadImage("img/MarischalGuide2.jpg");
 
 	
 	svgs.push_back(ofxSVG());
@@ -41,13 +41,13 @@ void ofApp::setup(){
 	svgs.push_back(ofxSVG());
 	svgs.back().load("img/MarischalCollegeGuide.svg");
 
-	projectorFbo.allocate(1024, 768, GL_RGB, 4);
+	//projectorFbo.allocate(1024, 768, GL_RGB, 4);
 	uiFbo.allocate(screenWidth, screenHeight, GL_RGB, 2); 
 
-	projectorFbo.begin();
-	ofSetColor(0);
-	ofRect(0,0,1024,768);
-	projectorFbo.end();
+	//projectorFbo.begin();
+	//ofSetColor(0);
+	//ofRect(0,0,1024,768);
+	//projectorFbo.end();
 	
 	ofSetColor(255);
 	projectorPosition.set(screenWidth/5*2.14, screenHeight*4/5 * 0.99, screenWidth/5, screenHeight/5);
@@ -171,7 +171,7 @@ void ofApp::draw(){
 
 		
 	uiFbo.begin();
-	ofSetupScreenPerspective(1280,960,50);
+	ofSetupScreenPerspective(screenWidth,screenHeight,50);
 
 	ofSetColor(0);
 	ofFill(); 
@@ -180,7 +180,7 @@ void ofApp::draw(){
 	ofSetColor(255);
 	
 	ofSetColor(100);
-	if(showGuideImage) guideImage.draw(0,-100,screenWidth,guideImage.height*(float)screenWidth/(float)guideImage.width) ;
+	if(showGuideImage) guideImage.draw(0,0,screenWidth,guideImage.height*(float)screenWidth/(float)guideImage.width) ;
 	ofSetColor(255);
 	//ofRect(projectorPosition.x-1, projectorPosition.y-1, projectorPosition.width+2, projectorPosition.height+2);
 	//projectorFbo.draw(projectorPosition);
@@ -198,7 +198,7 @@ void ofApp::draw(){
 			} 
 		}
 	}
-	ofSetupScreenPerspective(1280,960,50);
+	ofSetupScreenPerspective(screenWidth,screenHeight,50);
 
 	columnData.draw();
 	
@@ -246,7 +246,7 @@ void ofApp::draw(){
 	ofPopMatrix();
 	
 	uiFbo.begin();
-	ofSetupScreenPerspective(1280,960,50);
+	ofSetupScreenPerspective(screenWidth,screenHeight,50);
 
 	
 	// EFFECTS ---------------------------------------------
@@ -255,7 +255,7 @@ void ofApp::draw(){
     
 
 	if((currentSVG>=0) && (currentSVG<svgs.size())) {
-		laserManager.addLaserSVG(svgs[currentSVG], ofPoint(640,410),ofPoint(2.15,2.15));
+		laserManager.addLaserSVG(svgs[currentSVG], ofPoint(screenWidth/2,295),ofPoint(1.365,1.365));
 	
    
 	}
