@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FoundWorkingCopyPaths</key>
+	<array>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/LaserShow</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxLibdc</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxEtherdream</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks</string>
+	</array>
+	<key>LastWorkingCopyScanDate</key>
+	<date>2014-04-17T16:37:13Z</date>
+	<key>MissingFilePaths</key>
+	<array>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/imgproc.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/video/video.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/legacy/legacy.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ground_truth.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeVairableLister.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvGrayscaleImage.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/logger.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiFPSCounter.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-contours-following/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypePanel.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeTextDropDown.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiCallbackValue.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvColorImage.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/simpleFileLister.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/result_set.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvConstants.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiSliderBase.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/highgui/highgui_c.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/ofxControlPanel.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/ml/ml.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/calib3d/calib3d.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/imgproc/imgproc.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/ground_truth.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiColor.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/cxmisc.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiCallback.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/general.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiCallback.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/config.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-face-zoom/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/any.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxSimpleGuiPage.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiVariablePointer.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxSimpleGuiIncludes.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/all_indices.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/contrib/contrib.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/highgui_c.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiBaseObject.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiComboBox.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiQuadWarp.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/calib3d.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/blobtrack.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ts_gtest.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/objdetect/objdetect.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/opencv.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvMain.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxXmlSettings/libs/tinyxml.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxXmlSettings/libs/tinyxmlparser.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/mat.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/video/tracking.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypePanel.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/flann.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeLabel.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/random.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiSliderInt.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/params.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/dummy.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv/cvaux.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiXmlValue.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiValue.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxSimpleGuiPage.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/index_testing.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/README.md</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/saving.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiQuadWarp.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvGrayscaleImage.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeToggle.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/hdf5.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/dist.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeTextInput.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/heap.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/streams.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/result_set.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-difference-columns/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxSimpleGuiControl.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvImage.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxSimpleGuiConfig.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/nn_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/miniflann.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvBlob.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/kdtree_single_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiSlider2d.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/core/wimage.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvHaarFinder.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvConstants.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/matrix.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/cvaux.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/stream_accessor.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/cv.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/allocator.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvFloatImage.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ts.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/flann.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/linear_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/cxeigen.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/linear_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiCallbackValue.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiType2DSlider.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeDrawable.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/miniflann.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxSimpleGuiConfig.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv/highgui.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/gpu/gpu.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeChartPlotter.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/random.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-contours-quad/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTextBase.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/legacy/compat.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeDrawable.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxXmlSettings/src/ofxXmlSettings.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/tinyxml.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/saving.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/kdtree_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-kalman/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeCustom.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiContent.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/hierarchical_clustering_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/retina.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiComboBox.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxSimpleGuiToo.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxSimpleGuiValueControl.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/object_factory.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv/cxmisc.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/imgproc_c.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/features2d/features2d.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/lsh_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-ar/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/flann_base.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/simpleColor.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxXmlSettings.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiIncludes.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/composite_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/libs/glut/lib/osx/GLUT.framework</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxMSAInteractiveObject.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiSliderFloat.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvFloatImage.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/core/version.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/cxcore.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/autotuned_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-flow-distort/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-empty/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvGrayscaleImage.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/internal.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiValue.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvHaarFinder.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-face/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/ofxAutoControlPanel.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/matrix_operations.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/config.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/heap.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeMultiToggle.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvShortImage.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/flann_base.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvShortImage.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/tracking.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/background_segm.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/index_testing.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiType2DSlider.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/simplex_downhill.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/params.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/simpleFileLister.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiMovieSlider.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-edge/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/highgui/highgui.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeLogger.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/core.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/all_indices.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiColor.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/legacy/blobtrack.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/types_c.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/kdtree_single_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/gpu/matrix_operations.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvContourFinder.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvImage.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/legacy.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/any.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/gpu/devmem2d.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/timer.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxSimpleGuiControl.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxXmlSettings/libs/tinyxmlerror.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxSimpleGuiToo.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/gpu/stream_accessor.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/matrix.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv/cxeigen.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeVideo.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/bin/ofxIlda example RenderTargetDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeLabel.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxOpenCv.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv/ml.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/general.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/devmem2d.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiToggle.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/defines.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiTitle.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTextBase.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/imgproc/imgproc_c.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-homography/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/imgproc/types_c.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/dynamic_bitset.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/core/core.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example basic/bin/ofxIlda example basicDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/tinyxmlerror.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeToggle.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvHaarFinder.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/contrib.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiColorPicker.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvHaarFinder.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/legacy/streams.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/version.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeTextInput.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/tinyxmlparser.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiButton.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/simpleColor.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/objdetect.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/hierarchical_clustering_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-contours-color/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv/cv.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeVideo.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/sampling.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/defines.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxMSAInteractiveObject.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/video.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/highgui.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/lsh_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/cvwimage.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvContourFinder.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/kdtree_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv/cvwimage.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiContent.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/timer.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvFloatImage.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-contours-basic/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/install.xml</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/opencv.a</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/wimage.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/autotuned_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/kmeans_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeButtonSlider.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/ofxControlPanel.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/kmeans_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvColorImage.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/object_factory.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeMultiToggle.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxXmlSettings/src/ofxXmlSettings.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/nn_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiFPSCounter.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/simpleLogger.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvBlob.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvShortImage.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/ts/ts.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/features2d.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/lsh_table.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv/cxcore.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeVairableLister.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxXmlSettings/libs/tinyxml.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxSimpleGuiValueControl.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/operations.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-estimate-affine/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv/cv.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvContourFinder.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvGrayscaleImage.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ml.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/core_c.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-flow-keypoints/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvMain.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/dist.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/tinyxml.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeCustom.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-difference/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeTextDropDown.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-gesture/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/cvaux.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/dummy.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/eigen.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/gpumat.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/composite_index.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/core/internal.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/compat.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiToggle.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/simplex_downhill.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeText.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/core/core_c.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeButtonSlider.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/core/operations.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiBaseObject.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ml.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeLogger.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiTitle.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/license.md</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeChartPlotter.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiSlider2d.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiCustomImpl.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeSlider.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-contours-tracking/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvShortImage.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxOpenCv.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeText.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxXmlSettings.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeFileLister.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeSlider.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/guiTypeFileLister.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvColorImage.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/video/background_segm.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/allocator.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/core/types_c.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvContourFinder.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiButton.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/hdf5.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvColorImage.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiColorPicker.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-face-follow/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/logger.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/core/eigen.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/gpu.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/cv.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-coherent-lines/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/contrib/retina.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/cxcore.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/flann/sampling.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/lsh_table.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxCv/example-contours-advanced/bin/ofAppDebug.app</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv/cxcore.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/dynamic_bitset.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/opencv.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/.gitignore</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv/cvaux.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvImage.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/src/ofxCvFloatImage.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxControlPanel/src/simpleLogger.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/highgui.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/core/mat.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/ts/ts_gtest.h</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/ofxSimpleGuiMovieSlider.cpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxOpenCv/libs/opencv/include/opencv2/gpu/gpumat.hpp</string>
+		<string>/Users/sebretina/Dropbox/openFrameworks/apps/LaserShow/addons/ofxIlda/ofxIlda example RenderTarget/src/ofxCvImage.h</string>
+	</array>
+	<key>Version</key>
+	<integer>5</integer>
+</dict>
+</plist>
